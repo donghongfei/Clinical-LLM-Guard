@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dong"
+  given-names: "Hongfei"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Clinical-LLM-Guard: A Secure Middleware for Clinical LLM Processing"
+version: 0.1.0-alpha
+date-released: 2023-10-25
+url: "https://github.com/donghongfei/Clinical-LLM-Guard"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Dong"
+    given-names: "Hongfei"
+  title: "Balancing Privacy and Performance in Clinical LLM Applications"
+  year: 2024
+  conference:
+    name: "Proceedings of the IEEE International Conference on Healthcare Informatics (ICHI)"
